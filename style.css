@@ -1,0 +1,22 @@
+.green-background {
+  background-color: darkgreen;
+  height: 200px;
+}
+
+.white-text {
+  color: white;
+  font-size: large;
+}
+
+.grad-background {
+  background: url('http://courses.ics.hawaii.edu/ics314f22/morea/ui-frameworks/murphys-new-background.jpeg') no-repeat center center fixed;
+  background-size: cover;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.center-font {
+  text-align: justify;
+  font-size: 50px;
+}
